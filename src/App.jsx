@@ -37,7 +37,7 @@ const timelineProjects = [
     title: "Sistem Manajemen Aset (SIMASET)",
     role: "Internship @ SMK Telkom",
     desc: "Melakukan pengembangan website manajemen aset dengan penambahan menu pencatatan Air PDAM, fitur download format Excel, serta integrasi QR Code untuk identifikasi aset sekolah.",    
-    tags: ["Laravel (PHP)", "MySQL", "QR Code Logic"],
+    tags: ["CodeIgniter", "PHP", "MySQL", "QR Code Logic"],
     align: "right",
     images: [simaset1, simaset2], // Pastikan ini array meskipun cuma 1 gambar agar tidak error
     link: "https://github.com/Unit-Produksi-Telkom-Jakarta/asset-management-telkom",
