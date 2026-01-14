@@ -192,7 +192,7 @@ const App = () => {
               <a href="#contact" className="px-6 py-3 bg-blue-900 text-white font-semibold rounded-lg hover:bg-blue-800 transition-colors flex items-center gap-2">
                 Contact Me <ArrowRight size={18} />
               </a>
-              <a href="#" className="px-6 py-3 border border-slate-300 text-slate-700 font-semibold rounded-lg hover:border-blue-900 hover:text-blue-900 transition-colors flex items-center gap-2">
+              <a href="https://drive.google.com/file/d/11fOjSa0Z5kgpVT-s52Vij6Wk_VBVdbY8/view?usp=sharing" className="px-6 py-3 border border-slate-300 text-slate-700 font-semibold rounded-lg hover:border-blue-900 hover:text-blue-900 transition-colors flex items-center gap-2">
                 Download CV <Download size={18} />
               </a>
             </div>
